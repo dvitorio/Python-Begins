@@ -18,11 +18,16 @@
 #Imprime os itens já ordenados
 #print(frutas)
 
+#Simula o somatório de 
+""" vendas = [1350, 2000, 350, 450, 1200]
 
-i = 1
-count = 0
+total = 0
 
-while i != 'y':
-    num = int(input('Digite um número: '))
-    print(num)
-     
+for venda in vendas:
+    total += venda
+    
+print('Total de vendas do mês: ' + 'R$ ' + str(total)) """
+
+
+
+
