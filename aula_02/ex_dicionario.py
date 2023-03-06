@@ -9,3 +9,4 @@ colors = {
 
 for color in colors:
      cor = input('Digite uma cor em Português:')
+     
